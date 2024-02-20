@@ -1,0 +1,16 @@
+version: v1
+type: APP
+id: GPC
+label: GPC
+baseline: "GPC"
+description: " GPC"
+available: true
+icon: GPC
+defaultResources: 
+  cpu: 
+    limit: 0.1
+  memory:
+    limit: 128 MB
+backgroundColor: "#6F42C1"
+customFlags: []
+readme: /technologies/app/GPC
